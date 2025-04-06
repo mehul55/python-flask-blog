@@ -1,0 +1,16 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql+pymysql://root:@localhost/newstartup",
+        "prod_uri": "",
+        "fb_url": "https://facebook.com",
+        "tw_url": "https://twitter.com",
+        "gh_url": "https://github.com",
+        "blog_name": "MB's Blog",
+        "no_of_posts": 4,
+        "login_image": "logo.svg",
+        "admin_user": "mb",
+        "admin_password": "mb@1",
+        "upload_location": "C:\\Users\\Mehul's Laptop\\OneDrive\\Desktop\\new project\\static"
+    }
+}
